@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2016. Florian Moker (CodarByte) -->
+<!-- Based on the Parallels AWS 53 Route Module (Parallels Holding GmbH) -->
+<module>
+  <id>domainoffensiveCB</id>
+  <name>CodarByte DomainOffensive DNS Integration</name>
+  <description>This extension provides the functionality needed for integration with DomainOffensive (do.de).</description>
+  <version>1</version>
+  <release>1</release>
+  <vendor>CodarByte</vendor>
+  <url>https://www.codarbyte.de</url>
+  <plesk_min_version>12.0.18</plesk_min_version>
+</module>
