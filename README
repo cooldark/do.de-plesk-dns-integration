@@ -1,3 +1,16 @@
 DomainOffensive DNS Integration
 
 This extension provides the functionality needed for integration with Domain Offensive (do.de).
+
+
+FEATURES
+========
+Fully compatible with do.de's FLEXDNS (Dynamic DNS) Service. RR TTL below 300s would not be modified nor deleted.
+
+
+
+
+INSTALLATION
+============
+Download files (& zip them).
+Import the Extension .zip via the plesk extension manager.
